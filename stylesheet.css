@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(file:///Users/youshu/Downloads/Untitled195_20201113235441.PNG);
+  background-image: url('../file:///Users/youshu/Downloads/Untitled195_20201113235441.PNG');
   background-size: cover;
   background-position: center;
   background-color:rgba(255,255,255,0.8);
